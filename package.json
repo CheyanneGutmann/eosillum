@@ -1,0 +1,47 @@
+{
+  "name": "eosillum",
+  "description": "Composable and reusable style sheets.",
+  "version": "1.14.2",
+  "author": "LesleyBlanda",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CheyanneGutmann/eosillum.git"
+  },
+  "keywords": [
+    "jss",
+    "style",
+    "et",
+    "dolore",
+    "temporibus",
+    "components",
+    "sed"
+  ],
+  "scripts": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.3",
+    "qunitjs": "^1.15.0",
+    "uglify-js": "^2.4.15",
+    "xpkg": "^0.2.0"
+  },
+  "dependencies": {
+    "commander": "^2.6.0",
+    "css": "^2.1.0",
+    "dolornon": "^1.0.0",
+    "etet": "^1.0.1"
+  },
+  "bin": {
+    "jss": "./bin/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/CheyanneGutmann/eosillum.git/issues"
+  }
+}
